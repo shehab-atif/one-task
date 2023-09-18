@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+}
+
+.toop-page{
+    background-image: url(blue_bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+}
+
+
+.nav{
+display: flex;
+justify-content: space-between;
+}
+
+.q1{
+    display: flex;
+    margin-top: 20px;
+}
+
+.q1 ul{
+    display: flex;
+    margin-right: 10px;
+}
+
+.q1 li{
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.x1 p:hover{
+    text-decoration: underline ;
+    text-decoration-color: brown;
+    
+    
+}
+
+
+.q1 li:hover{
+    text-decoration: underline ;
+    text-decoration-color: brown;
+}
+
+.q2 li:hover{
+    text-decoration: underline ;
+    text-decoration-color: brown;
+}
+
+
+.ander-nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.on-1{
+    
+}
+
+.on-2{
+    position: relative;
+    bottom: 430px;
+    left: 74px;
+    transition: delay 2s;
+    transition: duration 3s;
+    
+
+}
+
+
+.on-2 img:hover{
+    transform: scale(1.2);
+}
+
+.on-3{
+    position: relative;
+    bottom: 500px;
+    left: 50px;
+}
+
+
+.two{
+    position: relative;
+    bottom: 50px;
+}
+
+.one{
+    position: relative;
+    top: 70px;
+    font-size: 20px;
+}
+
+.one h1,p{
+    margin-top: 30px;
+}
+
+
+.waves {
+    position: absolute;
+    bottom: 100px;
+    left: 0px;
+}
+
+
+.medll-one{
+    position: relative;
+    bottom: 450px;
+  width: 100%;
+  height: 400px;
+  background-image: url(second_section_.png);
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+
+
+.medll-page h3,p{
+    color: rgb(114, 114, 114);
+}
+
+
+
+.medll-two{
+    position: absolute;
+    top:570px;
+    left: 150px;
+}
+
+
+
+.medll-three{
+    position: absolute;
+    top:670px;
+    left: 500px;
+}
+
+
+
+.medll-four{
+    position: absolute;
+    top:900px;
+    left: 850px;
+}
+
+
+.medll-five{
+    position: absolute;
+    top: 900px;
+    left: 100px;
+}
+
+.medll-five h2{
+    color: white;
+    position: absolute;
+    bottom: 100px;
+    left: 70px;
+    font-size: 40px;
+}
+
+.medll-five p{
+    color: white;
+position: absolute;
+bottom: 150px;
+left: 70px;
+}
+
+.next-medllpage{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 200px;
+}
+
+.de-1 {
+    position: relative;
+    bottom: 150px;
+}
+
+.back img{
+    position: relative;
+width: 100%;
+
+}
+
+.back-2 img{
+    width: 500px;
+    height: 400px;
+   position: absolute;
+   top: 1990px;
+   left: 650px;
+}
+
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    }
+    
+    .q2{
+        position: absolute;
+        top: 2370px;
+        left: 50px;
+        color: white;
+        display: flex;
+    }
+    
+    .q2 ul{
+        display: flex;
+        margin-right: 10px;
+    }
+    
+    .q2 li{
+        margin-right: 25px;
+    }
+
+    .icon-1{
+        
+        position: absolute;
+        top: 2300px;
+        left: 90px;
+    }
+
+    .icon-1 img{
+        margin-right: 20px;
+    }
+
+    .icon-2{
+display: flex;
+        position: absolute;
+        top: 2200px;
+        left: 80px;
+       border-radius: 4px
+    } 
+
+    .icon-2 img{
+        margin-right: 20px;
+    }
+
+    .e1{
+        position: relative;
+        bottom: 50px;
+        left: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    .e1 p{
+        position: relative;
+        bottom: 15px;
+    }
+
+
+    
+    .e2{
+        position: relative;
+        bottom: 50px;
+        left: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    .e2 p{
+        position: relative;
+        bottom: 15px;
+    }
